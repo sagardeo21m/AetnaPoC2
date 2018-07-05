@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'javac "HelloBlueOcean.java"'
+        sh 'echo "Hello World"'
       }
     }
   }
