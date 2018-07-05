@@ -1,5 +1,5 @@
 @echo off
 
-javac Main.java
+javac Test.java
 
-java Main
+java Test
